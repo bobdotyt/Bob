@@ -7,5 +7,5 @@ Bob, le mec chaotique du serveur : admin MC, dev de bots, streameur du chaos, to
 3. Ouvre une PR avec une description qui déchire. 
 4. Ajoute des emojis, on aime le fun ! 🎉
 
-# url du discord:
-https://discord.gg/VkjwTZ2hn
+### Discord
+Rejoins le serveur : https://discord.gg/VkjwTZ2hn
